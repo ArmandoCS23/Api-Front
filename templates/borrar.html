@@ -45,7 +45,7 @@
         }
 
         function checarStatus() {
-            return fetch('https://back-usuarios-2143319e9b47.herokuapp.com/', {
+            return fetch('https://back-usuarios-2143319e9b47.herokuapp.com', {
                 method: 'GET',
                 headers: {
                     'Authorization': `Bearer ${sessionStorage.getItem('token')}`

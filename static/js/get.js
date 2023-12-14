@@ -1,4 +1,4 @@
-const SERVER_URL = "https://backendxd-4eb98d5ef344.herokuapp.com";
+const SERVER_URL = "https://back-usuarios-2143319e9b47.herokuapp.com";
 
 function handleErrorResponse(status, statusText) {
     console.error(`Error: ${status} - ${statusText}`);

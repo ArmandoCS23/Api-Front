@@ -1,4 +1,4 @@
-const SERVER_URL = "https://back-usuarios-2143319e9b47.herokuapp.com/";
+const SERVER_URL = "https://back-usuarios-2143319e9b47.herokuapp.com";
 const CONTACTS_ENDPOINT = "/contactos";
 
 // Obtener el parámetro de la URL

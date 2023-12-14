@@ -1,4 +1,4 @@
-const SERVER_URL = "https://back-usuarios-2143319e9b47.herokuapp.com/";
+const SERVER_URL = "https://back-usuarios-2143319e9b47.herokuapp.com";
 
 const urlParams = new URLSearchParams(window.location.search);
 const email = urlParams.get('email');
